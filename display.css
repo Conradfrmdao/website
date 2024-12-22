@@ -1,0 +1,177 @@
+.top1{
+  margin-bottom: 20px;
+  margin-top: 70px;
+}
+.top-logo{
+    display: flex;
+    margin: 0 auto;
+}
+.items{
+    margin-left: 47.5%;
+    margin-top: 100px;
+    display: flex;
+   align-items: center;
+   margin-bottom: 58px;
+}
+.welcome{
+   display: inline-block;
+   font-family: 'Roboto';
+   font-size: larger;
+}
+.guide{
+color: gray;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.account{
+    margin-left: 3px;
+}
+.guide-box{
+   display: flex;
+   align-items: center;
+   justify-content: 50%;
+   font-family: 'Roboto';
+    flex-direction: column;
+    
+}
+.input-feild{
+    width: 408px;
+    height: 36px;
+    font-size: 16px;
+    padding: 10px;
+    border: 1.4px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+    outline: none;
+    caret-color:  #f8982d;
+    transition: border-color 0.4s;
+}
+.input-feild:hover{
+    border-color: #f8982d;
+}
+.input-feild:focus{
+border-color: #f8982d;
+
+}
+.input-feild::placeholder{
+    color: #ccc;
+    transition: opacity  0.5s ease;
+}
+.input-feild:focus::placeholder{
+opacity: 0;
+}
+
+
+em{
+    padding-top: 10;
+    padding-bottom: 10;
+}
+
+.button{
+    color: #ffffff;
+    background-color: #f8982d;
+   border: none;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0,0,15);
+    display: block;
+    font-size: 16px;
+   width: 432px;
+   padding: 17px;
+   font-family: 'Roboto';
+   font-weight: bolder;
+   letter-spacing: 2px;
+   transition: opacity 0.2s;
+   cursor: pointer;
+   margin: 0  auto;
+   border-radius: 5px;
+}
+.button:hover{
+    box-shadow: 15px 15px 15x black;
+    opacity: 0.91;
+}
+.button:active{
+    opacity: 0.4;
+} 
+.tandc{
+    display: flex;
+   align-items: center;
+   justify-content: 50%;
+   font-family: 'Roboto';
+    flex-direction: column;
+   font-size: 12px;
+   font-weight: bold;
+   color: rgba(23, 22, 22, 0.833);
+}
+.tnc{
+    color: #f8982d;
+    margin-bottom: 24px;
+   cursor: pointer;
+   
+}
+.login-b{
+    color: #ffffff;
+    background-color: #1877f2;
+   border: none;
+   display: flex;
+   font-size: 16px;
+  width: 432px;
+  padding: 15px;
+  font-family: 'Roboto';
+  margin: 0 auto;
+align-items: center;
+border-radius: 5px;
+}
+.logb{
+    margin-top: 33px;
+}
+.cb{
+    margin-top: 33px;
+}
+.login-b:hover{
+    opacity: 0.91;
+}
+.login-b:active{
+    opacity: 0.4;
+}
+.fa-square-facebook{
+ font-size: 25px;
+ border: none;
+ display: inline-block;
+ 
+ }
+ .login22{
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: 4px;
+  letter-spacing: 1.3px;
+ }
+ .icon{
+    
+   margin-right: 95px;
+ }
+ .facebook-items{
+    display: inline-block;
+ }
+ .customer11{
+    display: flex;
+    align-items: center;
+    justify-content: 50%;
+    font-family: 'Roboto';
+     flex-direction: column;
+     margin-top: 35px;
+     line-height: 1.7;
+     letter-spacing: 1.02px;
+    font-size: 12px;
+    font-weight: bold;
+    font-weight: bold;
+    color: rgba(23, 22, 22, 0.833);
+    margin-bottom: 30px;
+ }
+ .logo{
+    display: block;
+    margin: 0 auto;
+
+ }
+
